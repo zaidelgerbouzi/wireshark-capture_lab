@@ -45,4 +45,4 @@ Wireshark Network Traffic Analysis & Protocol Investigation
 ---
 
 #### 🛡 Notes on Modern Protocol Behavior
-While most web traffic is now encrypted via TLS/HTTPS (Port 443), this lab successfully targeted Port 80 to observe raw protocol headers. This demonstrates an understanding of the differences between secure and unencrypted traffic—essential for network troubleshooting and security analysis.
+While most web traffic is now encrypted via TLS/HTTPS (Port 443), this lab successfully targeted Port 80 to observe raw protocol headers. This demonstrates an understanding of the differences between secure and unencrypted traffic essential for network troubleshooting and security analysis.
